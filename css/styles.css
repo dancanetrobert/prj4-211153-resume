@@ -23,7 +23,18 @@ body {
 }
 
 .resume-aside {
-	background-color: #73a1d3;
+	background-color: #8db4dd;
+}
+
+.color_change_main {
+	color: burlywood;
+}
+
+.color_change_aside {
+	color: rgb(0, 41, 88);
+}
+.font_change {
+	font-family: 'Roboto Condensed', sans-serif;
 }
 
 /* Styles for lists in the document */
